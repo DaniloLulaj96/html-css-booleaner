@@ -2,3 +2,20 @@
 background-size: 10%;
 background-color: blue;}
 
+.author{color: grey;}
+
+.author_link{text-decoration: none;}
+
+
+.date{color: grey;
+font-size: small;}
+
+.note{font-size: small;}
+
+
+th{text-align: left;
+    color: white;
+background-color: blue;
+width: 15%;}
+
+.table{background-color: blue;}
